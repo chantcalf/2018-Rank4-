@@ -31,3 +31,10 @@ lgb线下0.8905~0.891，三个NN线下都可以0.891+
 完整的见Github: https://github.com/chantcalf/2018-Rank4-
 
 科赛链接: https://www.kesci.com/home/project/5b7a15a231902f000f54dfd2
+
+原始代码过长且比较混乱，可能引起不适，有兴趣可参考
+lgb: https://www.kesci.com/home/project/5b51b92cfc7e900010325a35
+NN0: https://www.kesci.com/home/project/5b63098fa711e60010abce78
+NN1：https://www.kesci.com/home/project/5b5bc23ba711e600109abffd
+NN2：https://www.kesci.com/home/project/5b6bd9ed9889570010cc1cdd
+
